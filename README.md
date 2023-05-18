@@ -7,7 +7,7 @@ A dungeon crawler with procedurally generated levels, monsters of increasing dif
 The hero's hometown is suffering from a plague of monsters. Welling up from the deep, they are terrorizing the countryside. Legend tells of the Amulet of Yala (Yet Another Lost Amulet) that can be used to stem the beastly tide. After a long night at the tavern, the hero promises to save the day... And descend into the dungeon to retrieve the amulet.
 
 ## MVP Checklist:
-- [ ] Create a basic dungeon map
+- [x] Create a basic dungeon map
 - [ ] Add a player character and let them walk around
 - [ ] Add monsters that move around randomly, and let the player attack them by walking into them
 - [ ] Add health and a simple combat system
