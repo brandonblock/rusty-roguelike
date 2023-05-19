@@ -8,7 +8,7 @@ The hero's hometown is suffering from a plague of monsters. Welling up from the 
 
 ## MVP Checklist:
 - [x] Create a basic dungeon map
-- [ ] Add a player character and let them walk around
+- [x] Add a player character and let them walk around
 - [ ] Add monsters that move around randomly, and let the player attack them by walking into them
 - [ ] Add health and a simple combat system
 - [ ] Add healing potions
